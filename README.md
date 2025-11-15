@@ -10,9 +10,10 @@
 
 ## 已完成的书籍
 
-### mini 系列
+### 前端
 
-**前端**
+**mini系列书籍**
+
 - [mini-hammer.js 实战：从零构建自己的手势库](https://github.com/coderbook360/mini-hammerjs-book)
 
 一起用简单的方式传递技术知识！  
