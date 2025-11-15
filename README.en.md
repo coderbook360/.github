@@ -9,14 +9,4 @@ Technical mini-books for programmers, easy to understand, learn and apply immedi
 
 Whether it's programming basics, framework usage, tool tips, or underlying principles, we aim to make complex technologies clear and straightforward through the "mini-book" format. Each book focuses on a specific knowledge point, is concise in length, and has a low reading threshold, allowing you to quickly absorb it using fragmented time.
 
-
-## Completed Books
-
-### Frontend
-
-**mini Series Books**
-
-- [mini-hammer.js in Practice: Build Your Own Gesture Library from Scratch](https://github.com/coderbook360/mini-hammerjs-book)
-
-
 Let's spread technical knowledge in a simple way together!
