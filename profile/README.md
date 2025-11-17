@@ -16,8 +16,13 @@
 
 ### 前端
 
-**mini系列书籍**
+**规范解读系列**
+- [ECMAScript2025 标准核心揭秘](https://github.com/coderbook360/ecma262-standard-guide)
 
+**mini实战书籍系列**
+
+- [JavaScript解析器实战：从零构建mini-acorn](https://github.com/coderbook360/mini-acornjs-book)
+- [Ramda 设计与实现：深入 JavaScript 函数式编程](https://github.com/coderbook360/mini-ramdajs)
 - [mini-hammer.js 实战：从零构建自己的手势库](https://github.com/coderbook360/mini-hammerjs-book)
 
 一起用简单的方式传递技术知识！  

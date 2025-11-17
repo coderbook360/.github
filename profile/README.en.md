@@ -14,8 +14,14 @@ Whether it's programming basics, framework usage, tool tips, or underlying princ
 
 ### Frontend
 
+**Specification Interpretation Series**
+
+- [Unveiling the Core of ECMAScript2025](https://github.com/coderbook360/ecma262-standard-guide)
+
 **mini Series Books**
 
+- [JavaScript Parser in Practice: Building mini-acorn from Scratch](https://github.com/coderbook360/mini-acornjs-book)
+- [Ramda Design and Implementation: A Deep Dive into JavaScript Functional Programming](https://github.com/coderbook360/mini-ramdajs)
 - [mini-hammer.js in Practice: Build Your Own Gesture Library from Scratch](https://github.com/coderbook360/mini-hammerjs-book)
 
 
